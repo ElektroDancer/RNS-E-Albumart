@@ -59,7 +59,7 @@ Pick one explicitly with `--backend pillow` / `--backend gdk`; the default
 
 ```bash
 git clone https://github.com/ElektroDancer/RNS-E-Albumart.git
-cd rnse-albumart
+cd RNS-E-Albumart
 chmod +x rnse_albumart.py
 ```
 
